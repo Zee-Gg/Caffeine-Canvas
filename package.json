@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+     "dev": "npm run watch:css",
     "build:css": "npx tailwindcss -i ./src/input.css -o ./dist/style.css --minify",
     "watch:css": "npx tailwindcss -i ./src/input.css -o ./dist/style.css --watch"
   },
