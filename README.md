@@ -1,16 +1,23 @@
-# Caffeine Canvas - Build
+**Caffeine Canvas**
 
-Build the Tailwind CSS into `dist/style.css`.
+A beautifully crafted coffee shop landing page built with HTML and Tailwind CSS. This project showcases a clean, modern, and responsive design optimized for all devices.
 
-Windows (PowerShell):
+ **Features**
 
-```powershell
-npm install
-npm run build:css
-```
+Responsive Navbar with menu options and a mobile-friendly design.
 
-Or to watch for changes:
+Hero Section with adaptive images for desktop and mobile.
 
-```powershell
-npm run watch:css
-```
+Engaging Sections highlighting the coffee experience.
+
+Menu Section displaying different coffee types with descriptions.
+
+Tailwind CSS for Styling – lightweight, fast, and flexible.
+
+ **Tech Stack**
+
+HTML5 Tailwind CSS JavaScript (Optional for Interactivity)
+
+ **Customization**
+
+Feel free to tweak the Tailwind CSS classes to match your design preferences. You can update the colors, fonts, and layout easily within cb.html and input.css.
