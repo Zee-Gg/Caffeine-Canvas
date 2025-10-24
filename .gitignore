@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/
+
+# Vercel
+.vercel/
+
+# Optional caches
+.cache/
+.parcel-cache/
+
+# Lockfiles that should remain (do not ignore package-lock.json by default)
+# If you use pnpm or yarn and want to ignore their lockfile, uncomment below
+# pnpm-lock.yaml
+# yarn.lock
